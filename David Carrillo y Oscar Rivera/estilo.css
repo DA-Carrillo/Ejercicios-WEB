@@ -1,0 +1,23 @@
+p{
+	color: #FFF;
+	text-align:justify;
+	font-family: Century;
+	font-size: 14px; 
+
+}
+
+h2,h3,h4,h5,h6{
+	color:#33BEFF;
+	font-family: Century;
+	font-size: 18px;
+}
+h1{
+	color:#33FFA8;
+	font-family: Century;
+	font-size: 26px;
+}
+li {
+	color:#fff;
+	font-family: Century;
+	font-size: 12px;
+}
